@@ -1,126 +1,190 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:6E40C9,100:00F7FF&text=Abhijeet%20Sawan&fontColor=FFFFFF&fontSize=45&fontAlignY=38&desc=CSE%20(AI%2FML)%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=58&animation=fadeIn" alt="Abhijeet Sawan banner"/>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:6E40C9,100:00F7FF&text=Abhijeet%20Sawan&fontColor=FFFFFF&fontSize=45&fontAlignY=38&desc=CSE%20(AI%2FML)%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=58&animation=fadeIn"
+alt="Abhijeet Sawan banner"
+/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Final-Year+CSE+(AI%2FML)+Student;Building+AI%2FML+Projects+with+Python;Learning+DSA%2C+SQL+%26+Backend+Development;Turning+Ideas+into+Useful+Tech" alt="Typing introduction"/>
-</a>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Final-Year+CSE+(AI%2FML)+Student;Building+Practical+Projects+with+Python;Learning+DSA%2C+SQL+and+Backend+Development;Growing+One+Commit+at+a+Time"
+alt="Typing introduction"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abhijeetsawan&label=PROFILE+VIEWS&color=00c7b7&style=for-the-badge" alt="Profile views"/>
+<img
+src="https://komarev.com/ghpvc/?username=abhijeetsawan&label=PROFILE+VIEWS&color=00c7b7&style=for-the-badge"
+alt="Profile views"
+/>
+
 <a href="https://github.com/abhijeetsawan?tab=followers">
-  <img src="https://img.shields.io/github/followers/abhijeetsawan?label=FOLLOWERS&style=for-the-badge&color=8B5CF6&labelColor=0D1117" alt="GitHub followers"/>
+  <img
+    src="https://img.shields.io/github/followers/abhijeetsawan?label=FOLLOWERS&style=for-the-badge&color=8B5CF6&labelColor=0D1117"
+    alt="GitHub followers"
+  />
 </a>
 
 </div>
 
-> whoami
+> about_me
 
-abhijeet = {
-    "name": "Abhijeet Sawan",
-    "education": "B.Tech in CSE — Artificial Intelligence & Machine Learning",
-    "college": "Asansol Engineering College, MAKAUT",
-    "status": "Final-year student",
-    "interests": ["Artificial Intelligence", "Machine Learning", "Data", "Backend Development"],
-    "currently_learning": ["Python", "DSA", "SQL", "FastAPI", "PostgreSQL", "Git"],
-    "goal": "Build useful technology and become an industry-ready software professional"
-}
+🎓 Final-year B.Tech CSE (Artificial Intelligence & Machine Learning) student.
 
-🤖 I enjoy converting ideas into practical AI/ML applications.
+🤖 Interested in building practical AI/ML and Python applications.
 
-🧠 I am strengthening my foundations in problem-solving, DSA, SQL and CS fundamentals.
+🧠 Strengthening my foundations in Python, DSA, SQL, DBMS and problem-solving.
 
-⚙️ My next development focus is Python backend engineering with FastAPI and PostgreSQL.
+⚙️ Exploring backend development with FastAPI and PostgreSQL.
 
-🚀 I am open to internships, entry-level opportunities and beginner-friendly collaborations.
+🚀 Open to internships, entry-level roles and beginner-friendly collaborations.
 
-⚡ I started from the basics, and I am documenting the climb—one commit at a time.
+📈 Learning in public and improving through consistent projects and commits.
 
-> tech_stack
+> technologies
 
-Used in my projects
+AI, Machine Learning and Data
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,opencv,numpy,pandas&theme=dark" alt="Python AI and data tools"/>
+  <a href="https://www.python.org/" title="Python">
+    <img width="48" src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python"/>
+  </a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow">
+    <img width="48" src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow"/>
+  </a>
+  <a href="https://scikit-learn.org/" title="Scikit-learn">
+    <img width="48" src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/>
+  </a>
+  <a href="https://opencv.org/" title="OpenCV">
+    <img width="48" src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV"/>
+  </a>
+  <a href="https://numpy.org/" title="NumPy">
+    <img width="48" src="https://skillicons.dev/icons?i=numpy&theme=dark" alt="NumPy"/>
+  </a>
+  <a href="https://pandas.pydata.org/" title="Pandas">
+    <img width="48" src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas"/>
+  </a>
 </p>
-
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-</p>
-
-Learning and strengthening
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,git,github,vscode&theme=dark" alt="Backend and development tools"/>
+  <a href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
+  <a href="https://jupyter.org/">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  </a>
+  <a href="https://colab.research.google.com/">
+    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+  </a>
+  <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  </a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/DSA-00C7B7?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
-  <img src="https://img.shields.io/badge/SQL-6E40C9?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/DBMS-111827?style=for-the-badge&logo=databricks&logoColor=00F7FF" alt="DBMS"/>
-  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F7FF" alt="REST APIs"/>
+Currently Learning and Strengthening
+
+<p align="left">
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
+    <img width="48" src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI"/>
+  </a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
+    <img width="48" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img width="48" src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/>
+  </a>
+  <a href="https://git-scm.com/" title="Git">
+    <img width="48" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/>
+  </a>
+  <a href="https://github.com/" title="GitHub">
+    <img width="48" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/>
+  </a>
+  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
+    <img width="48" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/DSA-00C7B7?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
+  </a>
+  <a href="https://www.w3schools.com/sql/">
+    <img src="https://img.shields.io/badge/SQL-6E40C9?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  </a>
+  <a href="https://www.postgresql.org/docs/">
+    <img src="https://img.shields.io/badge/DBMS-111827?style=for-the-badge&logo=databricks&logoColor=00F7FF" alt="DBMS"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST">
+    <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F7FF" alt="REST APIs"/>
+  </a>
 </p>
 
 > featured_projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-🎬 Movie Recommendation System
-
-A content-based recommendation app that finds similar movies using genre data.
-
-Core concepts: TF-IDF vectorization and cosine similarityBuilt with: Python, Pandas, Scikit-learn and Streamlit
-
-<a href="https://github.com/abhijeetsawan/movie-recommender">
-  <img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="Movie recommender repository"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-🚦 Traffic Sign Recognition CNN
-
-A convolutional neural network for classifying German traffic signs across 43 classes.
-
-Core concepts: image preprocessing and CNN-based classificationBuilt with: Python, TensorFlow/Keras, OpenCV and NumPy
-
-<a href="https://github.com/abhijeetsawan/Traffic-Sign-Recognition-CNN">
-  <img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" alt="Traffic sign repository"/>
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 Movie Recommendation System</h3>
+      <p>
+        A content-based application that recommends similar movies using
+        genre information.
+      </p>
+      <p>
+        <strong>Core concepts:</strong><br/>
+        TF-IDF vectorization and cosine similarity
+      </p>
+      <p>
+        <strong>Built with:</strong><br/>
+        Python, Pandas, Scikit-learn and Streamlit
+      </p>
+      <a href="https://github.com/abhijeetsawan/movie-recommender">
+        <img
+          src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"
+          alt="View Movie Recommendation System repository"
+        />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚦 Traffic Sign Recognition CNN</h3>
+      <p>
+        A convolutional neural network for classifying German traffic signs
+        across 43 categories.
+      </p>
+      <p>
+        <strong>Core concepts:</strong><br/>
+        Image preprocessing and CNN-based classification
+      </p>
+      <p>
+        <strong>Built with:</strong><br/>
+        Python, TensorFlow/Keras, OpenCV and NumPy
+      </p>
+      <a href="https://github.com/abhijeetsawan/Traffic-Sign-Recognition-CNN">
+        <img
+          src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=A855F7"
+          alt="View Traffic Sign Recognition CNN repository"
+        />
+      </a>
+    </td>
+  </tr>
 </table>
 
-<div align="center">
+> current_focus
 
-<a href="https://github.com/abhijeetsawan/movie-recommender">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetsawan&repo=movie-recommender&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=A855F7&text_color=C9D1D9" alt="Movie Recommender project card"/>
-</a>
-<a href="https://github.com/abhijeetsawan/Traffic-Sign-Recognition-CNN">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhijeetsawan&repo=Traffic-Sign-Recognition-CNN&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=A855F7&text_color=C9D1D9" alt="Traffic Sign Recognition project card"/>
-</a>
+Build strong Python and programming fundamentals.
 
-</div>
+Practise DSA and problem-solving consistently.
 
-> current_mission
+Become confident with SQL, DBMS and PostgreSQL.
 
-01. Build strong Python and programming fundamentals
-02. Practise DSA and problem-solving consistently
-03. Become confident with SQL, DBMS and PostgreSQL
-04. Learn FastAPI and create production-style REST APIs
-05. Improve existing AI/ML projects with clean code, testing and deployment
-06. Build a placement-ready portfolio backed by real work
+Learn FastAPI and build production-style REST APIs.
 
-Next planned build
+Improve existing AI/ML projects with better documentation, testing and deployment.
 
-Smart Study & Interview Tracker — a Python backend project featuring authentication, CRUD operations, search, filters, pagination, PostgreSQL, testing and deployment.
+Next Planned Project
+
+Smart Study & Interview Tracker
+
+A Python backend project with authentication, CRUD operations, search, filters,pagination, PostgreSQL, testing and deployment.
 
 > certifications_and_experience
 
@@ -128,41 +192,39 @@ Smart Study & Interview Tracker — a Python backend project featuring authentic
 
 💼 JPMorgan Chase Software Engineering Job Simulation
 
-> github_analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhijeetsawan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=A855F7&text_color=C9D1D9&ring_color=00F7FF" alt="Abhijeet's GitHub stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=abhijeetsawan&hide_border=true&background=0D1117&ring=00F7FF&fire=A855F7&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Abhijeet's GitHub streak"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetsawan&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetsawan&bg_color=0D1117&color=00F7FF&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph"/>
-
-</div>
-
-> connect
+> connect_with_me
 
 <div align="center">
 
 <a href="mailto:abhijeetsawan49@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-abhijeetsawan49-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abhijeet"/>
+  <img
+    src="https://img.shields.io/badge/Gmail-abhijeetsawan49-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email Abhijeet Sawan"
+  />
 </a>
+
 <a href="https://www.linkedin.com/in/abhijeet-sawan-471799290/">
-  <img src="https://img.shields.io/badge/LinkedIn-Abhijeet_Sawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abhijeet on LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Abhijeet_Sawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Abhijeet Sawan on LinkedIn"
+  />
 </a>
+
 <a href="https://github.com/abhijeetsawan">
-  <img src="https://img.shields.io/badge/GitHub-abhijeetsawan-181717?style=for-the-badge&logo=github&logoColor=white" alt="Abhijeet on GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-abhijeetsawan-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Abhijeet Sawan on GitHub"
+  />
 </a>
 
 <br/><br/>
 
-💬 Let us build, learn and grow through technology.
+<strong>Building skills, projects and consistency—one commit at a time.</strong>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,50:6E40C9,100:0D1117" alt="Footer wave"/>
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,50:6E40C9,100:0D1117"
+alt="Footer wave"
+/>
 
 </div>
